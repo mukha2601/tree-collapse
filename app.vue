@@ -10,6 +10,5 @@
   padding: 0;
   box-sizing: border-box;
   color: black;
-  /* background-color: white; */
 }
 </style>
